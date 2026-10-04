@@ -1,0 +1,15 @@
+from .auth import router as auth_router
+from .dashboard import router as dashboard_router
+from .today import router as today_router
+from .learning import router as learning_router
+from .topics import router as topics_router
+from .coding import router as coding_router
+from .projects import router as projects_router
+from .goals import router as goals_router
+from .habits import router as habits_router
+from .analytics import router as analytics_router
+from .masters import router as masters_router
+from .skills import router as skills_router
+from .focus import router as focus_router
+from .ai import router as ai_router
+from .quickadd import router as quickadd_router
